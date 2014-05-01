@@ -2,6 +2,8 @@ Feed de instagram
 =========
 Feed de instagram basado en jQuery para diferentes criterios de búsqueda.
 
+![](https://raw.githubusercontent.com/lorspi/instagram/master/Captura.png)
+
 Modo de uso
 ----
 
