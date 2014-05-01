@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 Feed de instagram
-=======
-Feed instagram
->>>>>>> 9af6aabf4285437fff68d5bbf2f192a18e25bea1
 =========
 Feed de instagram basado en jQuery para diferentes criterios de búsqueda.
 
-<<<<<<< HEAD
 Modo de uso
 ----
 
@@ -143,7 +138,3 @@ Juan Pablo Pérez<br>
 
   [1]: mailto://juan.perez@lorspi.com
   [2]: http://lorspi.com
-=======
-  Juan Pablo Pérez
-  juan.perez@lorspi.com
->>>>>>> 9af6aabf4285437fff68d5bbf2f192a18e25bea1
