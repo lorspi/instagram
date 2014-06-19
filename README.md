@@ -103,7 +103,7 @@ Le decimos que al elemento de clase .feed le escribamos el contenido retornado p
     ```
     gram.type = Tipo de publicación: image, video
     gram.user.username = Nombre de usuario.
-    gram.caption.from.full_name = Nombre completo del usuario.
+    gram.user.full_name = Nombre completo del usuario.
     gram.user.profile_picture = Foto del usuario.
     gram.link = Url de la foto en la web de instagram.
     gram.tags = Hashtags de la foto.
